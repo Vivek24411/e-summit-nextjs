@@ -18,7 +18,7 @@ export default function Footer() {
               </div>
               
               <div className="footer-text">
-                <p>E-Summit IIT Roorkee is North India's largest entrepreneurial fest, organized by the Entrepreneurship Cell to inspire and empower future leaders.</p>
+                <p>E-Summit IIT Roorkee is North India&apos;s largest entrepreneurial fest, organized by the Entrepreneurship Cell to inspire and empower future leaders.</p>
               </div>
               
               <div className="footer-contact">
